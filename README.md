@@ -9,5 +9,15 @@ The smtplib module defines an SMTP client session object that can be used to sen
 email(python)
 The email package is a library for managing email messages. It is specifically not designed to do any sending of email messages to SMTP (RFC 2821), NNTP, or other servers; those are functions of modules such as smtplib and nntplib.
 
+frontend=>
+html, css, javascript , react for the front end
+
+design canva par dekhlenge ya photoshop par
+
+problems:
+1. API required
+2. 2auth verification (email)
+3. 
+
 
 
