@@ -12,12 +12,7 @@ The email package is a library for managing email messages. It is specifically n
 frontend=>
 html, css, javascript , react for the front end
 
-design canva par dekhlenge ya photoshop par
-
-problems:
-1. API required
-2. 2auth verification (email)
-3. 
-
+<b>how to use</b>=>
+for a user to use this , you need to have an account with 2 step verification turned on and generate a 16 letter app password from google myaccount(for user's safety). Enter the password and the reciver's email id or the list of the email ids and voila!! your mails are sent.
 
 
