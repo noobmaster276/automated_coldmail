@@ -4,8 +4,8 @@ from email.message import EmailMessage
 import ssl
 
 
-email_sender= 'studies276@gmail.com'
-email_password='rjtwaznscdcghxol'
+email_sender= '<your mail id>'
+email_password='<16 digit app password>'
 email_receiver=input("enter the receiver's email id=>>")
 
 subject='test for mail sending through python'
